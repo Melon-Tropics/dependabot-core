@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "elm/spec/fixtures/elm_jsons/package.json",
+        "npm_and_yarn/helpers/package.json",
+        "npm_and_yarn/spec/fixtures/package_files/package.json"
+      ]
+    }
+  }
+}
